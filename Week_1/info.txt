@@ -1,4 +1,0 @@
-Two files contain week one assignment
-
-File 1. Different Edge detection techniques
-File 2. Answers to questions
